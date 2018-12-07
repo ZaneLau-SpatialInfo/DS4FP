@@ -3,5 +3,4 @@
   期待大家共同参与。**
 
 **Attempt to translate "Distributed systems for fun and profit" into Chinese.**
-
 **I look forward to your participation.**
